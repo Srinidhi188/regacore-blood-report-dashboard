@@ -1,5 +1,5 @@
 
-LIVE LINK: regacore-blood-report-dashboard.vercel.app
+LIVE LINK: https://regacore-blood-report-dashboard.vercel.app/
 # Regacore Blood Report Dashboard
 
 An AI-powered, full-stack laboratory report analysis and visualization system. This application allows users to upload digital PDF blood test reports, extracts text and tabular biomarker measurements, normalizes names across multiple reporting standards, tracks longitudinal changes date-wise, and renders interactive time-series visualizations.
